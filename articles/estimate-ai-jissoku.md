@@ -3,7 +3,7 @@ title: "見積書を無料AIに作らせたら金額は全問正解、でもメ�
 emoji: "🧾"
 type: "tech"
 topics: ["生成ai", "gemini", "業務効率化", "プロンプト"]
-published: false
+published: true
 ---
 
 ## やったこと
