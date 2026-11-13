@@ -3,7 +3,7 @@ title: "残業代の計算を無料AIにさせたら、深夜も固定残業も�
 emoji: "🧮"
 type: "tech"
 topics: ["生成ai", "gemini", "業務効率化", "プロンプト"]
-published: false
+published: true
 ---
 
 ## やったこと
